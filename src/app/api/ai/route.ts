@@ -1,0 +1,1 @@
+export async function POST() { return Response.json({ response: 'Hello from WOOF! How can I help you today?' }); }
